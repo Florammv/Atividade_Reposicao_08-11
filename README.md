@@ -1,1 +1,1 @@
-# Este repositório contém a atividade passada na aula de reposição do dia 08/11
+# Este repositório contém as atividades passadas na aula de reposição do dia 08/11
